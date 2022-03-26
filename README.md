@@ -134,3 +134,5 @@ Longitude	(Number) - Longitude of the location
 
 Location	(Location) - Coordinates (Latitude, Longitude)
 
+### Download the dataset from the below link
+https://drive.google.com/drive/u/2/folders/1gF7PVLHVit6JatilyKJ5uWaDM3MFFw-N
